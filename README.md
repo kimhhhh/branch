@@ -15,3 +15,19 @@ commit
 		increasing the server configured values for client timeouts, 
 		or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
 ```
+
+## pull request
+
+123123123123
+
+cc55v2d5
+
+nnonononononono
+
+## git gui
+wekjnf
+wefkjnwf
+wekfkksusknf
+ws
+wsdvsdvdvdv
+
